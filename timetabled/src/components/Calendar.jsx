@@ -18,29 +18,29 @@ const Calendar = () => {
         <tbody>
           <tr>
             <td className="time">8 am</td>
-            <Event />
+            <Event event='Starbucks ☕' location='666 Michigan Ave' color='green'/>
             <td></td>
             <td></td>
             <td></td>
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
+            <Event event='Yolk 🍳' location='355 E Ohio St' color='green'/>
           </tr>
           <tr>
             <td className="time">9 am</td>
             <td></td>
             <td></td>
             <td></td>
+            <Event event='Subway 🚇' location='Grand Station' color='pink'/>
             <td></td>
             <td></td>
-            <td></td>
-            <td></td>
+            <Event event='The Bean 🎨' location='Millennium Park' color='blue'/>
           </tr>
           <tr>
             <td className="time">10 am</td>
             <td></td>
-            <td></td>
+            <Event event='River Cruise ⛵' location='Chicago River' color='blue'/>
             <td></td>
             <td></td>
             <td></td>
@@ -51,7 +51,7 @@ const Calendar = () => {
             <td className="time">11 am</td>
             <td></td>
             <td></td>
-            <td></td>
+            <Event event='Deep Dish 🍕' location="Giordano's" color='pink'/>
             <td></td>
             <td></td>
             <td></td>
@@ -64,7 +64,7 @@ const Calendar = () => {
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
+            <Event event='Subway 🚇' location='Grand Station' color='pink'/>
             <td></td>
           </tr>
           <tr>
@@ -81,19 +81,19 @@ const Calendar = () => {
             <td className="time">2 pm</td>
             <td></td>
             <td></td>
+            <Event event='Art Institute 🎨' location='Michigan Ave' color='blue'/>
             <td></td>
-            <td></td>
-            <td></td>
+            <Event event='Girl & the Goat 🐐' location='234 N Halsted St' color='green'/>
             <td></td>
             <td></td>
           </tr>
           <tr>
             <td className="time">3 pm</td>
+            <Event event='Cubs Game ⚾' location='Wrigley Field' color='green'/>
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
-            <td></td>
+            <Event event='Subway 🚇' location='Grand Station' color='pink'/>
             <td></td>
             <td></td>
           </tr>
@@ -101,7 +101,7 @@ const Calendar = () => {
             <td className="time">4 pm</td>
             <td></td>
             <td></td>
-            <td></td>
+            <Event event='Fancy Dinner 🍽' location='Maple & Ash' color='pink'/>
             <td></td>
             <td></td>
             <td></td>
@@ -114,7 +114,7 @@ const Calendar = () => {
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
+            <Event event='Shopping 🛍' location='Magnificent Mile' color='pink'/>
             <td></td>
           </tr>
         </tbody>

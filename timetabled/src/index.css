@@ -19,3 +19,24 @@ td {
 .time {
   height: 40px;
 }
+
+.Event {
+  border-radius: 5px;
+  text-align: center;
+}
+
+.Event h5 {
+  margin: 5px 0;
+}
+
+.green {
+  background-color: #90EE90;
+}
+
+.blue {
+  background-color: #ADD8E6;
+}
+
+.pink {
+  background-color: #FFB6C1;
+}
