@@ -1,6 +1,6 @@
 # Web Development Lab 1 - *Timetabled*
 
-Submitted by: **Sharnica Jeudy Z23582376**
+Submitted by: **Sharnica Jeudy **
 
 This web app: **A weekly itinerary planner built with React and Vite that displays a 7-day schedule in a grid format. The application features a calendar component showing time slots from 8 AM to 5 PM across Sunday through Saturday, with color-coded event cards that include event names, locations, and emojis. Perfect for planning trips, organizing weekly activities, or creating visual schedules with an easy-to-read tabular layout.**
 
@@ -18,9 +18,6 @@ The following **stretch** features are implemented:
 
 - [x] Event blocks have additional information, such as a description and location
 
-The following **additional** features are implemented:
-
-* [ ] 
 
 ## Video Walkthrough
 
@@ -35,9 +32,6 @@ GIF created with ...  ScreenToGif
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-N/A
 
 ## License
 
